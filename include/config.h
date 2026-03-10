@@ -1,0 +1,4 @@
+#define CRITICAL_HIGH 95
+#define WARNING_HIGH 85
+#define WARNING_LOW 55
+#define CRITICAL_LOW 45
